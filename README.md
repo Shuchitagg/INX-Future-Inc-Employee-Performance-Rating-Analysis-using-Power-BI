@@ -21,6 +21,7 @@ Analysis & Insights:
 
 In contrary to the popular belief, there was no direct relationship identified between employee job satisfaction and work life balance to performance rating. There was no positive or negative correlation identified.
 <details>
+  <summary>
 The important factors affecting performance rating are:
 •	Years since last promotion: 
 o	Employees recently promoted had the highest performance rating and decreased with the years since the last promotion. 
@@ -36,6 +37,7 @@ o	Business Analysts have the highest average performance rating of 3.19 followed
   1.	Development -  3.09
   2.	Data Science - 3.05
   3.	Human Resources – 2.93
+    </summary>
   </details>
 
 Dashboard
