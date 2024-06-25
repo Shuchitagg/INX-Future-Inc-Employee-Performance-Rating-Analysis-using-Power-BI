@@ -34,7 +34,7 @@ The important factors affecting performance rating are:
       using   conditional formatting.
 *	Employee Job Role:
     -  Business Analysts have the highest average performance rating of 3.19 followed by developer (3.11) and Technical lead (3.08)
-    - 	Top 3 Departments with higher average performance rating:
+       -   Top 3 Departments with higher average performance rating:
          1.	Development -  3.09
          2.	Data Science - 3.05
          3.	Human Resources – 2.93
