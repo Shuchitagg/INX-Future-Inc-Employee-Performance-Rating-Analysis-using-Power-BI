@@ -29,14 +29,14 @@ The important factors affecting performance rating are:
     -  	The median of average performance rating is 2.85 (as highlighted in the dashboard)	
 * Employee last salary hike percentage:
 *	Average performance rating increased with the higher % of salary hike, i.e., employee who received a higher salary hike displayed a higher performance. 
-   - 	This correlation is 82.5% accurate with an exception of 17.5% of employees (who had a salary hike of 21% or greater but still had a poor performance rating). This is highlighted in Red in the dashboard 
+  -  This correlation is 82.5% accurate with an exception of 17.5% of employees (who had a salary hike of 21% or greater but still had a poor performance rating). This is highlighted in Red in the dashboard 
       using   conditional formatting.
 *	Employee Job Role:
 *	Business Analysts have the highest average performance rating of 3.19 followed by developer (3.11) and Technical lead (3.08)
     - 	Top 3 Departments with higher average performance rating:
-  1.	Development -  3.09
-  2.	Data Science - 3.05
-  3.	Human Resources – 2.93
+         1.	Development -  3.09
+         2.	Data Science - 3.05
+         3.	Human Resources – 2.93
     
 
 Dashboard
