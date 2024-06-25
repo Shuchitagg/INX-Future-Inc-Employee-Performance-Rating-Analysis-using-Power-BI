@@ -44,5 +44,5 @@ Dashboard
 
  Recommendations:
 
-*•	It is evident from the results that INX Future Inc. should identify the employees not been promoted over 5 years or given salary hikes of less than 20% and consider developing intrinsic and extrinsic ways of motivating this group to perform better. Adequate coaching is to be provided to address their learning/skills gap to upskill them to outperform.
-*•	Shuffling the job roles of employees and training them in different domains would help build a T-shaped skillset and increase performance rating. 
+*	It is evident from the results that INX Future Inc. should identify the employees not been promoted over 5 years or given salary hikes of less than 20% and consider developing intrinsic and extrinsic ways of motivating this group to perform better. Adequate coaching is to be provided to address their learning/skills gap to upskill them to outperform.
+*	Shuffling the job roles of employees and training them in different domains would help build a T-shaped skillset and increase performance rating. 
