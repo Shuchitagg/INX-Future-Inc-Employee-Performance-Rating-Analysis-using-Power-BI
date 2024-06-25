@@ -20,6 +20,7 @@ The project was done with the purpose of finding out factors that affected the p
 Analysis & Insights:
 
 In contrary to the popular belief, there was no direct relationship identified between employee job satisfaction and work life balance to performance rating. There was no positive or negative correlation identified.
+<details>
 The important factors affecting performance rating are:
 •	Years since last promotion: 
 o	Employees recently promoted had the highest performance rating and decreased with the years since the last promotion. 
@@ -35,6 +36,7 @@ o	Business Analysts have the highest average performance rating of 3.19 followed
   1.	Development -  3.09
   2.	Data Science - 3.05
   3.	Human Resources – 2.93
+  </details>
 
 Dashboard
  ![image](https://github.com/Shuchitagg/INX-Future-Inc-Employee-Performance-Rating-Analysis-using-Power-BI/assets/59108428/77973739-b91d-442c-8f8b-7e7a185ccea4)
