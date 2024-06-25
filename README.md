@@ -24,9 +24,9 @@ In contrary to the popular belief, there was no direct relationship identified b
 The important factors affecting performance rating are:
 *	Years since last promotion: 
   *	Employees recently promoted had the highest performance rating and decreased with the years since the last promotion. 
-  *	This correlation is 98% accurate with an exception of only 2% of employees (Promoted after 13 years and still had a good performance rating).
-    85.5% of employees had an average performance rating of 2.76 or higher within 5 years of last promotion.
-  *	The median of average performance rating is 2.85 (as highlighted in the dashboard)	
+    -  	This correlation is 98% accurate with an exception of only 2% of employees (Promoted after 13 years and still had a good performance rating).
+        85.5% of employees had an average performance rating of 2.76 or higher within 5 years of last promotion.
+    -  	The median of average performance rating is 2.85 (as highlighted in the dashboard)	
 * Employee last salary hike percentage:
 *	Average performance rating increased with the higher % of salary hike, i.e., employee who received a higher salary hike displayed a higher performance. 
  * 	This correlation is 82.5% accurate with an exception of 17.5% of employees (who had a salary hike of 21% or greater but still had a poor performance rating). This is highlighted in Red in the dashboard 
